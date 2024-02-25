@@ -11,7 +11,7 @@ gem install loquendo-ruby
 ## Usage
 
 ```ruby
-require 'loquendo-ruby'
+require 'loquendoruby'
 
 speaker = LoquendoRuby::Main.new
 speaker.set_voice('es-MX', 'Mia')
