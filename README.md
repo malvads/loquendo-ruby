@@ -15,7 +15,7 @@ require 'loquendoruby'
 
 speaker = LoquendoRuby::Main.new
 speaker.set_voice('es-MX', 'Mia')
-speaker.speech('hello world!')
+speaker.spech('hello world!')
 
 ```
 
